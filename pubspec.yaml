@@ -1,0 +1,46 @@
+name: gym_planner
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.0
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  path_provider: ^2.1.1
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.0.0
+  flutter_foreground_task: ^9.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.9
+  isar_generator: ^3.1.0+1
+  flutter_launcher_icons: ^0.14.4
+
+
+# Pinning an older stable analyzer that is 100% macro-free
+dependency_overrides:
+  isar_flutter_libs:
+    git:
+      url: https://github.com/MrLittleWhite/isar_flutter_libs.git
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/
+    - assets/icons/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/icons/gym_planner_logo__2.png"
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/icons/gym_planner_logo__2.png"

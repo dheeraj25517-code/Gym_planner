@@ -1,0 +1,15 @@
+targets:
+  $default:
+    builders:
+      isar_generator:
+        generate_for:
+          include:
+            # ONLY scan the specific folders holding database collection files
+            - lib/features/workout_setup/domain/models/exercise.dart
+            - lib/features/workout_history/domain/models/workout_record.dart
+            - lib\features\workout_setup\presentation\widgets\exercise_selection_sheet.dart
+          exclude:
+            # Explicitly lock out the presentation, controllers, and tests completely
+            - lib/features/**/presentation/**
+            - lib/features/**/controllers/**
+            - test/**
