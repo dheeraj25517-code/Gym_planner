@@ -4,7 +4,7 @@ A minimal, lightning-fast workout tracking application built with Flutter. Optim
 
 # Preview
 
-<img width="380" height="1678" alt="Screenshot_2026-06-24-14-03-58-51_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/30cc286c-4523-486f-9d1e-318c6758b67b" />
+<img width="380" height="1178" alt="Screenshot_2026-06-24-14-03-58-51_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/30cc286c-4523-486f-9d1e-318c6758b67b" />
 
 <img width="1080" height="2378" alt="Screenshot_2026-06-24-16-18-01-49_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/210164a0-7435-473e-afed-b3e9642b741f" />
 
