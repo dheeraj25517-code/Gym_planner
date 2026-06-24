@@ -4,19 +4,13 @@ A minimal, lightning-fast workout tracking application built with Flutter. Optim
 
 # Preview
 
-<img width="380" height="968" alt="Screenshot_2026-06-24-14-03-58-51_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/30cc286c-4523-486f-9d1e-318c6758b67b" />   <img width="380" height="968" alt="Screenshot_2026-06-24-16-18-01-49_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/210164a0-7435-473e-afed-b3e9642b741f" />
+<img width="380" height="938" alt="Screenshot_2026-06-24-14-03-58-51_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/30cc286c-4523-486f-9d1e-318c6758b67b" />   <img width="380" height="938" alt="Screenshot_2026-06-24-16-18-01-49_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/210164a0-7435-473e-afed-b3e9642b741f" />
 
-<img width="1080" height="2378" alt="Screenshot_2026-06-24-16-18-14-44_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/28e2129e-0898-4b6a-9634-f949fe911eee" />
+<img width="380" height="938" alt="Screenshot_2026-06-24-16-18-14-44_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/28e2129e-0898-4b6a-9634-f949fe911eee" />   <img width="380" height="938" alt="Screenshot_2026-06-24-16-18-21-66_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/b5ed638d-352f-40a9-8d8e-f2fb038bfbfc" />
 
-<img width="1080" height="2378" alt="Screenshot_2026-06-24-16-18-21-66_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/b5ed638d-352f-40a9-8d8e-f2fb038bfbfc" />
+<img width="380" height="938" alt="Screenshot_2026-06-24-16-18-45-44_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/59c8ec9c-69fd-46cd-a6dd-2940c4f69be5" />   <img width="380" height="938" alt="Screenshot_2026-06-24-16-18-49-16_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/77415278-2347-4e1c-9b5e-57d784fb8fbf" />
 
-<img width="1080" height="2378" alt="Screenshot_2026-06-24-16-18-45-44_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/59c8ec9c-69fd-46cd-a6dd-2940c4f69be5" />
-
-<img width="1080" height="2378" alt="Screenshot_2026-06-24-16-18-49-16_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/77415278-2347-4e1c-9b5e-57d784fb8fbf" />
-
-<img width="1080" height="2378" alt="Screenshot_2026-06-24-16-19-53-37_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/e0131419-25a1-456c-89b2-72fc2b331897" />
-
-<img width="1080" height="2378" alt="Screenshot_2026-06-24-16-21-19-73_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/e2b7f454-6b2d-42f2-8250-da4a71664838" />
+<img width="380" height="938" alt="Screenshot_2026-06-24-16-19-53-37_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/e0131419-25a1-456c-89b2-72fc2b331897" />    <img width="380" height="938" alt="Screenshot_2026-06-24-16-21-19-73_d33be566b4588b842e911e87f85c1d7f" src="https://github.com/user-attachments/assets/e2b7f454-6b2d-42f2-8250-da4a71664838" />
 
 
 
